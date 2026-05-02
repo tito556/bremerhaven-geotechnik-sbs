@@ -1,0 +1,62 @@
+# Bremerhaven
+
+> Geotechnical engineering company in Germany, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aktive Passive Verankerungsbemessung](https://bremerhaven.geotechnik.sbs/aktive-passive-verankerungsbemessung/)
+- [Analyse Seismischen Verstarkung](https://bremerhaven.geotechnik.sbs/analyse-seismischen-verstarkung/)
+- [Bemessung Dynamischen Verdichtung](https://bremerhaven.geotechnik.sbs/bemessung-dynamischen-verdichtung/)
+- [Bemessung Geozellen](https://bremerhaven.geotechnik.sbs/bemessung-geozellen/)
+- [Bemessung Rammpfahlen](https://bremerhaven.geotechnik.sbs/bemessung-rammpfahlen/)
+- [Bemessung Schottersaulen](https://bremerhaven.geotechnik.sbs/bemessung-schottersaulen/)
+- [Bemessung Starrer Fahrbahnen](https://bremerhaven.geotechnik.sbs/bemessung-starrer-fahrbahnen/)
+- [Bemessung Vertikalen Drans](https://bremerhaven.geotechnik.sbs/bemessung-vertikalen-drans/)
+- [Berechnung Des Sicherheitsfaktors](https://bremerhaven.geotechnik.sbs/berechnung-des-sicherheitsfaktors/)
+- [Bewertung Bestehender Fahrbahnen](https://bremerhaven.geotechnik.sbs/bewertung-bestehender-fahrbahnen/)
+- [Bewertung Quellfahigen Boden](https://bremerhaven.geotechnik.sbs/bewertung-quellfahigen-boden/)
+- [Bodenerosionsanalyse](https://bremerhaven.geotechnik.sbs/bodenerosionsanalyse/)
+- [Bodenklassifikation](https://bremerhaven.geotechnik.sbs/bodenklassifikation/)
+- [Bodenmechanische Untersuchung](https://bremerhaven.geotechnik.sbs/bodenmechanische-untersuchung/)
+- [Bodenstabilisierung Fur Straßen](https://bremerhaven.geotechnik.sbs/bodenstabilisierung-fur-straßen/)
+- [Bodenverbesserung](https://bremerhaven.geotechnik.sbs/bodenverbesserung/)
+- [Bodenverflussigungsanalyse](https://bremerhaven.geotechnik.sbs/bodenverflussigungsanalyse/)
+- [Boschungsbruchanalyse](https://bremerhaven.geotechnik.sbs/boschungsbruchanalyse/)
+- [Boschungsstabilitatsanalyse](https://bremerhaven.geotechnik.sbs/boschungsstabilitatsanalyse/)
+- [Cbr Studie Fur Straßenentwurf](https://bremerhaven.geotechnik.sbs/cbr-studie-fur-straßenentwurf/)
+- [Charakterisierung Residualboden](https://bremerhaven.geotechnik.sbs/charakterisierung-residualboden/)
+- [Deep Soil Mixing](https://bremerhaven.geotechnik.sbs/deep-soil-mixing/)
+- [Einaxialer Druckversuch](https://bremerhaven.geotechnik.sbs/einaxialer-druckversuch/)
+- [Erkundung](https://bremerhaven.geotechnik.sbs/erkundung/)
+- [Feld Flugelscherversuch](https://bremerhaven.geotechnik.sbs/feld-flugelscherversuch/)
+- [Felddurchlassigkeitsversuch](https://bremerhaven.geotechnik.sbs/felddurchlassigkeitsversuch/)
+- [Flachdilatometer Versuch](https://bremerhaven.geotechnik.sbs/flachdilatometer-versuch/)
+- [Flachgrundungsbemessung](https://bremerhaven.geotechnik.sbs/flachgrundungsbemessung/)
+- [Fundamente](https://bremerhaven.geotechnik.sbs/fundamente/)
+- [Geogitter Spezifikation](https://bremerhaven.geotechnik.sbs/geogitter-spezifikation/)
+- [Geomembran Spezifikation](https://bremerhaven.geotechnik.sbs/geomembran-spezifikation/)
+- [Geophysik](https://bremerhaven.geotechnik.sbs/geophysik/)
+- [Geotechnik Deponien](https://bremerhaven.geotechnik.sbs/geotechnik-deponien/)
+- [Geotechnische Analyse Fur Tunnel](https://bremerhaven.geotechnik.sbs/geotechnische-analyse-fur-tunnel/)
+- [Geotechnische Baugrubenuberwachung](https://bremerhaven.geotechnik.sbs/geotechnische-baugrubenuberwachung/)
+- [Geotechnische Bemessung Tiefer Baugruben](https://bremerhaven.geotechnik.sbs/geotechnische-bemessung-tiefer-baugruben/)
+- [Geotechnische Boschungsuberwachung](https://bremerhaven.geotechnik.sbs/geotechnische-boschungsuberwachung/)
+- [Geotechnische Entwasserungsbemessung](https://bremerhaven.geotechnik.sbs/geotechnische-entwasserungsbemessung/)
+- [Geotechnische Instrumentierung](https://bremerhaven.geotechnik.sbs/geotechnische-instrumentierung/)
+- [Geotechnische Straßenentwasserung](https://bremerhaven.geotechnik.sbs/geotechnische-straßenentwasserung/)
+- [Geotextil Spezifikation](https://bremerhaven.geotechnik.sbs/geotextil-spezifikation/)
+- [Ground Penetrating Radar](https://bremerhaven.geotechnik.sbs/ground-penetrating-radar/)
+- [Hange](https://bremerhaven.geotechnik.sbs/hange/)
+- [Hvsr Mikrotremor Messung](https://bremerhaven.geotechnik.sbs/hvsr-mikrotremor-messung/)
+- [In Situ Prufungen](https://bremerhaven.geotechnik.sbs/in-situ-prufungen/)
+- [Injektionsbemessung](https://bremerhaven.geotechnik.sbs/injektionsbemessung/)
+- [Jet Grouting Bemessung](https://bremerhaven.geotechnik.sbs/jet-grouting-bemessung/)
+- [Labor](https://bremerhaven.geotechnik.sbs/labor/)
+- [Labor Cbr Versuch](https://bremerhaven.geotechnik.sbs/labor-cbr-versuch/)
+- [Labor Durchlassigkeitsversuch](https://bremerhaven.geotechnik.sbs/labor-durchlassigkeitsversuch/)
+
+## Contact
+- Website: https://bremerhaven.geotechnik.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in Germany.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
